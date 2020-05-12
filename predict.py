@@ -142,7 +142,7 @@ def _main_(input_path_x,infer_model,infer_model_2,infer_model_3,infer_model_4,in
         for image_path in image_paths:
 
             image = cv2.imread(image_path)# load the image path
-            image=image_preprocess.start_pre(image)
+            image=image_preprocess.start_pre(image,condition=object_file.hand_written)
             image = cv2.resize(image,(1600,1200))
 
             ########################################## predict the bounding boxes ##################################################
