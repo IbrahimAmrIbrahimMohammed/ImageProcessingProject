@@ -10,4 +10,6 @@
     * the exe is so heavy 1.5 giga 
     * the exe with weights is almost 3 giga 
     
+* exe link
+    * https://drive.google.com/open?id=1S6_LD0mPlvdVBhap4UBwO0fhQS9Jojhh
     
