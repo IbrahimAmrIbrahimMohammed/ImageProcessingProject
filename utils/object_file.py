@@ -14,6 +14,7 @@ image=0
 image_copy=0
 image_test=0
 valid_verilog=False
+hand_written=False
 output_path=""
 image_name=""
 input_path=""
