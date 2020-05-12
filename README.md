@@ -12,6 +12,7 @@
     
 * exe link
     * https://drive.google.com/open?id=1S6_LD0mPlvdVBhap4UBwO0fhQS9Jojhh
+    * file name is exe.exe , status uploading it 
     
 * demo link
     * https://youtu.be/zGhdaHffjpc
