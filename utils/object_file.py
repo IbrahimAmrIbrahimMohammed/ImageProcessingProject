@@ -1,5 +1,5 @@
 '''
-@author ahmed hessuin
+@author lamees emad
 description : this file contain every global object that is going to be used inside different files
 core file
 '''

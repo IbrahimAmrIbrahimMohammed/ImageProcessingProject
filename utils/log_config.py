@@ -1,5 +1,5 @@
 '''
-@author ahmed hessuin
+@author lamees emad
 this file for log configuration
 like get time and the format.
 '''
